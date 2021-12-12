@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "dev-start": "nodemon index"
+    "start": "nodemon index"
   },
   "keywords": [],
-  "author": "MD. JAHID HOSSAIN",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
