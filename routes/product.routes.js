@@ -13,7 +13,7 @@ const {
   updateProduct_quantity,
   deleteProduct,
   setRating,
-} = require('../controllers/product.controller')
+} = require('../controllers/product.controllers')
 const validation = require('../utils/validation')
 
 router.get('/', getProducts)

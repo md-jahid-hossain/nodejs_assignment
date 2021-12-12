@@ -1,4 +1,4 @@
-const { products } = require('./product.controller')
+const { products } = require('./product.controllers')
 
 const cart = []
 

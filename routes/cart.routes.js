@@ -6,7 +6,7 @@ const {
   handleCart,
   removeSingleProduct,
   deleteCart,
-} = require('../controllers/cart.controller')
+} = require('../controllers/cart.controllers')
 
 router.get('/', showCart)
 

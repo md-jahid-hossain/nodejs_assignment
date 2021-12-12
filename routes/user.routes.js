@@ -9,7 +9,7 @@ const {
   updateUser,
   updateUser_partially,
   deleteUser,
-} = require('./../controllers/user.controller')
+} = require('../controllers/user.controllers')
 const { registerSchema, profileSchema } = require('../schema/user.schema')
 
 router.get('/', getUsers)
